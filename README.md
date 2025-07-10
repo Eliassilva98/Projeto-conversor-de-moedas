@@ -33,3 +33,6 @@ Código Fácil
 GitHub
 
 Este projeto foi uma excelente oportunidade para consolidar meus conhecimentos em desenvolvimento web e estou animado para compartilhar com vocês. Confira o resultado e sinta-se à vontade para deixar seu feedback!
+<br>
+<br>
+<img src="https://github.com/Eliassilva98/Projeto-conversor-de-moedas/blob/main/assets/Conversor%20de%20moedas.png?raw=true"
