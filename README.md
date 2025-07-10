@@ -16,11 +16,14 @@ Sem Dependência de Frameworks: Projeto desenvolvido sem o uso de frameworks mod
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />  :   Estilização e layout visual.
 
-JavaScript: Lógica de conversão e interatividade.
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="js-logo" />  :   Lógica de conversão e interatividade.
 
 
 Este projeto foi uma excelente oportunidade para consolidar meus conhecimentos em desenvolvimento web e estou animado para compartilhar com vocês. Confira o resultado e sinta-se à vontade para deixar seu feedback!
 <br>
 <br>
 <img src="https://github.com/Eliassilva98/Projeto-conversor-de-moedas/blob/main/assets/Conversor%20de%20moedas.png?raw=true">
+<br>
+<br>
+Converta moedas de Real para Dólar, Euro, Yene e Libra 👉 :
 
