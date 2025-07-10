@@ -24,15 +24,10 @@ HTML5: Estruturação da página e dos elementos.
 CSS3: Estilização e layout visual.
 
 JavaScript: Lógica de conversão e interatividade.
-GitHub
-+2
-GitHub
-+2
-Código Fácil
-+2
-GitHub
+
 
 Este projeto foi uma excelente oportunidade para consolidar meus conhecimentos em desenvolvimento web e estou animado para compartilhar com vocês. Confira o resultado e sinta-se à vontade para deixar seu feedback!
 <br>
 <br>
-<img src="https://github.com/Eliassilva98/Projeto-conversor-de-moedas/blob/main/assets/Conversor%20de%20moedas.png?raw=true"
+<img src="https://github.com/Eliassilva98/Projeto-conversor-de-moedas/blob/main/assets/Conversor%20de%20moedas.png?raw=true">
+
