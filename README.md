@@ -14,7 +14,7 @@ Sem Dependência de Frameworks: Projeto desenvolvido sem o uso de frameworks mod
 🛠️ Tecnologias Utilizadas  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> :   Estruturação da página e dos elementos.
 
-CSS3: Estilização e layout visual.
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />  :   Estilização e layout visual.
 
 JavaScript: Lógica de conversão e interatividade.
 
